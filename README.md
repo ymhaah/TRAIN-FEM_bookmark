@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
--    [Solution URL]()
--    [Live Site URL](https://ymhaah.github.io/bookmark/)
+-   [Solution URL](https://www.frontendmentor.io/solutions/bookmark-LI23Ip8fpS)
+-   [Live Site URL](https://ymhaah.github.io/bookmark/)
 
 ## My process
 
