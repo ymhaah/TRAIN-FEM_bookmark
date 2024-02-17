@@ -1,45 +1,21 @@
 # Frontend Mentor - Bookmark landing page solution
 
+> Start at: May 25, 2022
+
+### Project Description
 This is a solution to the [Bookmark landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158).
+Your Simple Bookmark Solution! Effortlessly organize your favorite websites with QuickMarks, offering a streamlined and user-friendly bookmark management experience. Swiftly categorize and retrieve your bookmarks, ensuring easy access to your go-to sites. Simplify your online life with QuickMarks – the essential tool for efficient web navigation.
 
-## Table of contents
-
--   [Overview](#overview)
-    -   [The challenge](#the-challenge)
-    -   [Screenshot](#screenshot)
-    -   [Links](#links)
--   [My process](#my-process)
-    -   [Built with](#built-with)
-    -   [What I learned](#what-i-learned)
-    -   [Continued development](#continued-development)
--   [Author](#author)
-
-## Overview
-
-My own attempt to solve this challenge
-
-### The challenge
-
-Users should be able to:
-
--   View the optimal layout for the site depending on their device's screen size
--   See hover states for all interactive elements on the page
--   Receive an error message when the newsletter form is submitted if:
-    -   The input field is empty
-    -   The email address is not formatted correctly
 
 ### Screenshot
+![hero of the page](https://github.com/ymhaah/TRAIN-FEM_bookmark/assets/77534098/24e85215-1ccc-4392-8e89-e767364f1d00)
 
-![hero of the page](./screenshot.png)
 
 ### Links
 
--   [Solution URL](https://www.frontendmentor.io/solutions/bookmark-LI23Ip8fpS)
--   [Live Site URL](https://ymhaah.github.io/bookmark/)
+-   [Live Site URL](https://ymhaah.github.io/TRAIN-FEM_bookmark/)
+-   [frontEndMentor Solution URL](https://www.frontendmentor.io/solutions/bookmark-LI23Ip8fpS)
 
-## My process
-
-It had so many challenges that I had to use javascript and The challenge was to come up with a small and effective code and not just a code that works
 
 ### Built with
 
@@ -50,10 +26,6 @@ It had so many challenges that I had to use javascript and The challenge was to 
 -   Mobile-first workflow
 
 ### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
 
 ```html
 <form action="">
@@ -148,7 +120,25 @@ lines.forEach(function (ele) {
 -   scss mixin
 -   js general skills
 
-## Author
+### Useful resources
 
--   github - [youssef hafnawi](https://github.com/ymhaah)
--   Twitter - [@hafanwi](https://twitter.com/hafanwi)
+Check out my latest previous articles:
+
+-   [how to make an Indestructible button?](https://dev.to/ymhaah/how-to-make-an-indestructible-button-3f2h)
+-   [Top 5 Icon websites for devs and designers!!!](https://dev.to/ymhaah/top-5-icon-websites-for-devs-and-designers-53mh)
+-   [30-Day React Learning Journey!](https://dev.to/ymhaah/series/20473)
+
+## Author
+-   professional links:
+    - [Twitter / X](https://twitter.com/hafanwy)
+    - [LinkedIn](https://www.linkedin.com/in/youssef-hafnawy/)
+    - [Newsletter](https://hefnawystudio.substack.com/?utm_source=navbar&utm_medium=web&r=31jf6o)
+-   Hire me:
+    -   [UpWork](https://www.upwork.com/freelancers/~01acd8e5370e5646aa)
+-   Blog:
+    -   [Medium](https://medium.com/@ymhaah250)
+    -   [Dev.to](https://dev.to/ymhaah)
+
+### Free Services
+- [Free Website performance Optimization](https://tally.so/r/nPzKaB)   
+- [Free Website Accessibility Optimization](https://tally.so/r/3lr2bp) 
