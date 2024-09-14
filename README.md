@@ -2,8 +2,10 @@
 
 > Start at: May 25, 2022
 
-### Project Description
-This is a solution to the [Bookmark landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158).
+## Project Description
+This is a solution to the [Bookmark landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158). FrontendMentor is a platform where developers can improve their front-end skills by building real projects and receiving feedback from the community.
+
+### the project
 Your Simple Bookmark Solution! Effortlessly organize your favorite websites with QuickMarks, offering a streamlined and user-friendly bookmark management experience. Swiftly categorize and retrieve your bookmarks, ensuring easy access to your go-to sites. Simplify your online life with QuickMarks – the essential tool for efficient web navigation.
 
 
